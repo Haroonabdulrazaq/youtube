@@ -1,6 +1,6 @@
 # Youtube Clone
 
- EMBEDDING IMAGES AND VIDEO. This project is designed to test and our knowledge on Embedding Videos and images, by building a Replic of Youtube
+ EMBEDDING IMAGES AND VIDEO. This project is designed to test and our knowledge on Embedding Videos and images, by building a Replica of Youtube
     
 
 ## Built With
