@@ -1,6 +1,6 @@
 # Youtube Clone
 
- EMBEDDING IMAGES AND VIDEO
+ EMBEDDING IMAGES AND VIDEO. This project is designed to test and our knowledge on Embedding Videos and images, by building a Replic of Youtube
     
 
 ## Built With
@@ -32,6 +32,20 @@ $ cd youtube
 # Remove current origin repository
 $ git remote remove origin
 ```
+## Prerequisite
+- An IDE Integrated Development Environment (Visual Studio Code)
+
+## Run Test
+- HTML validator
+- CSS code linters
+
+## Setting Up
+- Clone this project to your local machine
+- cd into the project
+- Open the project in an IDE
+
+## Deployment
+- Deployed on Github ```gh-pages```
 
 ## Authors
 
